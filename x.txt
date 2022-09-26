@@ -6,6 +6,8 @@
    
    "apv": "https://raw.githubusercontent.com/lowamx/apv/main/apv.txt",
 
+   "password":"7780",
+
    "verified": true
 
 }
