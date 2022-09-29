@@ -6,8 +6,6 @@
    
    "apv": "https://raw.githubusercontent.com/lowamx/apv/main/apv.txt",
 
-   "head_o": "{'Host':'mbasic.facebook.com','Connection':'keep-alive','Cache-Control':'max-age=0','sec-ch-ua':'" Not A;Brand";v="99","Chromium";v="101"','sec-ch-ua-mobile':'?1','sec-ch-ua-platform':'"Android"','Upgrade-Insecure-Requests'	:'1','User-Agent':'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9','Sec-Fetch-Site':'same-origin','Sec-Fetch-Mode':'navigate','Sec-Fetch-User':'?1','Sec-Fetch-Dest':'document','Referer':'https://mbasic.facebook.com/login/device-based/','Accept-Encoding':'gzip, deflate','Accept-Language':'en-GB,en-US;q=0.9,en;q=0.8'}",
-
    "password":"7780",
 
    "verified": true
