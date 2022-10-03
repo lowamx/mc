@@ -10,9 +10,9 @@
 
    "gett": "https://mbasic.facebook.com/login/device-based/password/?uid={}&flow=login_no_pin&refsrc=deprecated&_rdr",
 
-   "Zaid Tatw": "https://mbasic.facebook.com/login/device-based/validate-password/?shbl=9",
+   "postt": "https://mbasic.facebook.com/login/device-based/validate-password/?shbl=9",
 
-   "password":"lol",
+   "password":"7780",
 
    "verified": true
 
